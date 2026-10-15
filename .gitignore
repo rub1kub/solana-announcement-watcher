@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+data/
+__pycache__/
+*.pyc
+*.log
+*.pid
+*.session*
+*.sqlite*
+*.db
+*.db-*
+*.zip
+*.tar*
+.DS_Store
